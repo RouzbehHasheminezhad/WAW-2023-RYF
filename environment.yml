@@ -1,0 +1,19 @@
+name: WAW
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - numba
+  - mpi4py
+  - pandas
+  - requests
+  - tqdm
+  - xlrd
+  - seaborn
+  - pip
+  - pip:
+      - ipyparallel
+      - rarfile==4.0
+      - unrar==0.4
+  - graph-tool
