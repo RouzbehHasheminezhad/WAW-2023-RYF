@@ -1,4 +1,4 @@
-# The Myth of the Robust-Yet-Fragile Nature of Scale-Free Networks: An Empirical Analysis
+# [The Myth of the Robust-Yet-Fragile Nature of Scale-Free Networks: An Empirical Analysis](https://doi.org/10.1007/978-3-031-32296-9_7)
 
 **Authors**: Rouzbeh Hasheminezhad, August Bøgh Rønberg, Ulrik Brandes
 
@@ -71,13 +71,17 @@ If you use this script as a part of your research, we would be grateful if you
 cite this code repository and/or the original paper.
 
 ```
-@inproceedings{hasheminezhad2023myth,
-  title={The Myth of the Robust-Yet-Fragile Nature of Scale-Free Networks: An Empirical Analysis},
-  author={Hasheminezhad, Rouzbeh and R{\o}nberg, August B{\o}gh and Brandes, Ulrik},
-  booktitle={Algorithms and Models for the Web Graph: 18th International Workshop, WAW 2023, Toronto, ON, Canada, May 23--26, 2023, Proceedings},
-  pages={99--111},
-  year={2023},
-  organization={Springer}
+@inproceedings{hasheminezhad_myth_2023,
+	series = {Lecture Notes in Computer Science},
+	title = {The Myth of the Robust-Yet-Fragile Nature of Scale-Free Networks: An Empirical Analysis},
+	volume = {13894},
+	language = {en},
+	booktitle = {Proceedings of the 18th Workshop on Algorithms and Models for the Web Graph (WAW 2023)},
+	publisher = {Springer},
+	author= {Hasheminezhad, Rouzbeh and R{\o}nberg, August B{\o}gh and Brandes, Ulrik},
+	editor=	{Dewar, Megan and Pra{\l}at, Pawe{\l} and Szufel, Przemys{\l}aw and Th{\'e}berge, Fran{\c{c}}ois and Wrzosek, Ma{\l}gorzata},
+	year = {2023},
+	pages = {99--111}
 }
 
 ```
